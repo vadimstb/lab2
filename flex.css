@@ -4,6 +4,11 @@ body, html {
     font-family: Arial, sans-serif;
 }
 
+ul 
+{
+    list-style: none;
+}
+
 .header {
     width: 100vw;
     height: 20vh;

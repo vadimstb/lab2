@@ -4,6 +4,11 @@ body {
     font-size: 16px;
 }
 
+ul 
+{
+    list-style: none;
+}
+
 .container {
     display: grid;
     grid-template-columns: 1fr 2fr 0.3fr;
